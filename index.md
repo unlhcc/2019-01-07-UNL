@@ -10,8 +10,8 @@ humandate: "January 7-9, 2019"    # human-readable dates for the workshop (e.g.,
 humantime: "8:30 am - 4:30 pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2019-01-07      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2019-01-09        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["Tessa Durham Brooks", "Erin Doyle", "Mark Meysenburg"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
-helper: ["TBA"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+instructor: ["Mark Meysenburg", "Erin Doyle"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
+helper: ["Tessa Durham Brooks", "Adam Erk"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["hcc-support@unl.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes:             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
@@ -108,6 +108,13 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 </p>
 {% endif %}
 
+<p id="cost">
+  <strong>Cost:</strong>
+  $60 / $30 for students
+</p>
+
+<center><form><button name="button" style="background-color: D71920; padding: 15px 32px" formaction="#">Register to Attend</button></form></center>
+
 {% comment %}
   SPECIAL REQUIREMENTS
 
@@ -183,9 +190,9 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
  SURVEYS - DO NOT EDIT SURVEY LINKS 
 {% endcomment %}
 <h2 id="surveys">Surveys</h2>
-<p>Please be sure to complete these surveys before and after the workshop.</p>
-<p><a href="#">Pre-workshop Survey</a></p>
-<p><a href="#">Post-workshop Survey</a></p>
+<p>This program is offered as part of an active grant. All participants are requested to complete these surveys before and after the workshop. <strong>Please use your institutional email address when completing.</strong> Thank you</p>
+<p><a href="https://doane.qualtrics.com/jfe/form/SV_8Dixwq4UARwLmlv">Pre-workshop Survey</a></p>
+<p><a href="https://doane.qualtrics.com/jfe/form/SV_8Dixwq4UARwLmlv">Post-workshop Survey</a></p>
 
 
 <hr/>
