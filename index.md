@@ -114,7 +114,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 </p>
 
 <center><form><button name="button" style="background-color: D71920; padding: 15px 32px" formaction="#">Register to Attend</button></form></center>
-
+<br>
 {% comment %}
   SPECIAL REQUIREMENTS
 
