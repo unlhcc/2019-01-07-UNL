@@ -190,7 +190,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
  SURVEYS - DO NOT EDIT SURVEY LINKS 
 {% endcomment %}
 <h2 id="surveys">Surveys</h2>
-<p>This program is offered as part of an active grant. All participants are requested to complete these surveys before and after the workshop. <strong>Please use your institutional email address when completing.</strong> Thank you</p>
+<p>This program is offered as part of an active grant. All participants are requested to complete these surveys before and after the workshop. <br><strong>Please use your institutional email address when completing.</strong> Thank you</p>
 <p><a href="https://doane.qualtrics.com/jfe/form/SV_8Dixwq4UARwLmlv">Pre-workshop Survey</a></p>
 <p><a href="https://doane.qualtrics.com/jfe/form/SV_8Dixwq4UARwLmlv">Post-workshop Survey</a></p>
 
