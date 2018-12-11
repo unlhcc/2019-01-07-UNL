@@ -110,7 +110,8 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 
 <p id="cost">
   <strong>Cost:</strong>
-  $60 / $30 for students
+  $60 / $30 for students<br>
+  Students from Doane University are eligible to attend this workshop free of charge. Please contact <a href="mailto:cbrown58@unl.edu">Carrie Brown</a> to register.
 </p>
 
 <center><form><button name="button" style="background-color: D71920; padding: 15px 32px" formaction="https://marketplace.unl.edu/default/hcc-python-image-processing-1901.html">Register to Attend</button></form></center>
