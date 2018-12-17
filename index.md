@@ -110,7 +110,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 
 <p id="cost">
   <strong>Cost:</strong>
-  $60 / $30 for students<br>
+  $60 - Full-time Graduate and Undergraduate students can register for FREE courtesy of EPSCoR!<br>
   Students from Doane University are eligible to attend this workshop free of charge. Please contact <a href="mailto:cbrown58@unl.edu">Carrie Brown</a> to register.
 </p>
 
